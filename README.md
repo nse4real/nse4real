@@ -24,7 +24,7 @@ well log, a seismic section, and a Kafka offset in the same morning.
 ## What I build
 
 - **Streaming pipelines** -- Kafka, Spark Structured Streaming, Debezium CDC
-- **Cloud data infrastructure** -- AWS (S3, Redshift, Glue, Lambda), Azure (ADF, Fabric)
+- **Cloud data infrastructure** -- AWS (S3, Redshift, Glue, Lambda), Azure (ADF, Databricks, Fabric)
 - **Subsurface & geospatial data** -- OSDU, DLIS, SEG-Y, WITSML, RESQML
 - **Analytics & warehousing** -- dbt, PostgreSQL, Redshift, data modelling
 - **Orchestration & containerisation** -- Airflow, Docker, Docker Compose
