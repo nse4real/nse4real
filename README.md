@@ -7,10 +7,10 @@ AWS-based pipelines (S3, Redshift, Kafka, PostgreSQL).
 
 Previously at Shell Global Solutions, where I led the CoatHanger
 CDS-to-OSDU subsurface data migration programme across global assets
-and owned the Entitlements & Obligations (E&O) data governance workstream, the Master'ship change workstream, and the Data Readiness workstream.
+and owned the Entitlements & Obligations (E&O) data governance workstream, the Mastership change workstream, and the Data Readiness workstream.
 
-I hold an MSc in Data Science (RGU) and MSc in Integrated Petroleum Geoscience
-(Aberdeen), which means I can read a well log and a Kafka offset in the same morning.
+I hold an MSc in Data Science (RGU) an MSc in Integrated Petroleum Geoscience
+(Aberdeen), and MSc in Petroleum Geophysics, which means I can read a well log and a Kafka offset in the same morning.
 
 ---
 
