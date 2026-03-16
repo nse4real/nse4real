@@ -9,16 +9,22 @@ Previously at Shell Global Solutions, where I led the CoatHanger
 CDS-to-OSDU subsurface data migration programme across global assets
 and owned three workstreams within that programme:
 
-- **Entitlements & Obligations (E&O)** -- data governance and access control
-- **WMM/DS/DMA Mastership Change** -- ownership and transition of well, document,
-  and asset master data
+- **Entitlements & Obligations (E&O)** -- data governance and access control;
+  played a core role in designing, testing, and implementing the DMA
+  (Data Management Application) -- Shell's cloud-native replacement for the
+  legacy CDR (Central Data Register)
+
+- **WMM/DS/DMA Mastership Change** -- led the mastership transition of Well
+  Master Manager, Directional Survey, and Data Management Application records
+  from CDR to DMA within the OSDU programme
+
 - **Data Readiness** -- ensuring source data quality and migration eligibility
   ahead of ingestion into OSDU
 
-I also led the WBDDMS Focus Group, where I designed and implemented a
-framework to convert single DLIS files to Parquet -- introducing Equinor's
-dlisio library into the programme -- and presented the approach and outcomes
-to senior leadership.
+  - **WBDDMS Focus Group (Wellbore Domain Data Management Service)** -- led the
+  focus group; designed and implemented a framework to convert single DLIS files
+  to Parquet, introducing Equinor's dlisio library into the programme;
+  presented findings and outcomes to senior leadership
 
 I hold an MSc in Data Science (RGU), MSc in Integrated Petroleum Geoscience
 (Aberdeen), and MSc in Petroleum Geophysics (OAU) -- which means I can read a
