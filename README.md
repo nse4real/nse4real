@@ -15,6 +15,11 @@ and owned three workstreams within that programme:
 - **Data Readiness** -- ensuring source data quality and migration eligibility
   ahead of ingestion into OSDU
 
+I also led the WBDDMS Focus Group, where I designed and implemented a
+framework to convert single DLIS files to Parquet -- introducing Equinor's
+dlisio library into the programme -- and presented the approach and outcomes
+to senior leadership.
+
 I hold an MSc in Data Science (RGU), MSc in Integrated Petroleum Geoscience
 (Aberdeen), and MSc in Petroleum Geophysics (OAU) -- which means I can read a
 well log, a seismic section, and a Kafka offset in the same morning.
