@@ -21,7 +21,7 @@ and owned three workstreams within that programme:
 - **Data Readiness** -- ensuring source data quality and migration eligibility
   ahead of ingestion into OSDU
 
-  - **WBDDMS Focus Group (Wellbore Domain Data Management Service)** -- led the
+- **WBDDMS Focus Group (Wellbore Domain Data Management Service)** -- led the
   focus group; designed and implemented a framework to convert single DLIS files
   to Parquet, introducing Equinor's dlisio library into the programme;
   presented findings and outcomes to senior leadership
