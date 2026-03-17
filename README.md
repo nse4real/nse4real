@@ -26,13 +26,14 @@ Subsurface Data Universe (OSDU) platform, across global assets.
 
 - **Data Readiness** -- designed and codified showstopper and
   non-showstopper migration eligibility rules in collaboration with
-  the data design team; built readiness dashboards for CDS relational
-  data types and wrote Python scripts for non-relational Recall checks;
-  validated data integrity (SUWI/SUWBI alignment across EDM and CDS),
-  reference value consistency, and record uniqueness; produced
-  E&O-approved, readiness-cleared test datasets as inputs for
-  acceptance and production pipeline testing; maintained a global
-  master migration eligibility tracker spanning all data types and assets
+  the data design team; built readiness dashboards in Power BI against
+  SQL schemas designed to profile CDS relational data types; wrote
+  Python scripts for non-relational Recall checks; validated data
+  integrity (SUWI/SUWBI alignment across EDM and CDS), reference value
+  consistency, and record uniqueness; produced E&O-approved,
+  readiness-cleared test datasets as inputs for acceptance and
+  production pipeline testing; maintained a global master migration
+  eligibility tracker spanning all data types and assets
 
 - **WMM/DS/DMA Mastership Change** -- led the mastership transition of
   three platforms -- Well Master Manager (WMM), Directional Survey (DS),
