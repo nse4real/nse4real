@@ -15,9 +15,9 @@ Subsurface Data Universe (OSDU) platform, across global assets.
   (Data Management Application) -- Shell's cloud-native replacement for the
   legacy CDR (Central Data Register)
 
-- **WMM/DS/DMA Mastership Change** -- led the mastership transition of Well
+- **WMM/DS/DMA Mastership Change** -- led the mastership transition of three applications viz Well
   Master Manager (WMM), Directional Survey (DS), and Data Management
-  Application (DMA) platforms from Shell Data Universe (SDU) -- Shell's
+  Application (DMA) from Shell Data Universe (SDU) -- Shell's
   proprietary precursor to OSDU -- into the standardised cloud-based
   Open Subsurface Data Universe (OSDU)
 
