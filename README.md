@@ -82,6 +82,14 @@ entitlement schema matters at the asset level. That gap is where I work.
 
 ---
 
+## Currently
+
+- Contracting as Data Engineer (AWS stack, London)
+- Building toward Microsoft Fabric Data Engineer certification (DP-700)
+- Open to senior Data Engineer and Data Analyst roles (visa sponsorship required)
+
+---
+
 <details>
 <summary>Glossary -- Shell/OSDU terminology</summary>
 
@@ -101,14 +109,6 @@ entitlement schema matters at the asset level. That gap is where I work.
 | **dlisio** | Open-source Python library developed by Equinor for parsing DLIS well log files |
 
 </details>
-
----
-
-## Currently
-
-- Contracting as Data Engineer (AWS stack, London)
-- Building toward Microsoft Fabric Data Engineer certification (DP-700)
-- Open to senior Data Engineer and Data Analyst roles (visa sponsorship required)
 
 ---
 
