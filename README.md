@@ -10,13 +10,13 @@ CDS-to-OSDU subsurface data migration programme across global assets
 and owned three workstreams within that programme:
 
 - **Entitlements & Obligations (E&O)** -- data governance and access control;
-  played a core role in designing, testing, and implementing the DMA
+  played a core role in designing, testing, and implementing the cloud-based DMA
   (Data Management Application) -- Shell's cloud-native replacement for the
   legacy CDR (Central Data Register)
 
 - **WMM/DS/DMA Mastership Change** -- led the mastership transition of Well
-  Master Manager, Directional Survey, and Data Management Application records
-  from CDR to DMA within the OSDU programme
+  Master Manager, Directional Survey, and Data Management Application platforms
+  from onPREM SDU (Shell Data Universe) to cloud-based OSDU (Open Subsurface Data Universe)
 
 - **Data Readiness** -- ensuring source data quality and migration eligibility
   ahead of ingestion into OSDU
