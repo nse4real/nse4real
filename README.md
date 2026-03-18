@@ -1,7 +1,7 @@
 # Simon Udoh (Nsenam)
 ### Data Engineer | Cloud & Streaming Pipelines | Subsurface & Energy Data
 
-I build data infrastructure where the domain complexity is high -- upstream O&G,
+I build data infrastructure in very complex domains -- upstream O&G,
 energy markets, and regulatory datasets. Currently contracting in London on
 AWS-based pipelines (S3, Redshift, Kafka, PostgreSQL).
 
