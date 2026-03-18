@@ -8,7 +8,7 @@ AWS-based pipelines (S3, Redshift, Kafka, PostgreSQL).
 Previously at Shell Global Solutions, where I led the CoatHanger programme --
 a migration of core well data (well names, identifiers, and key attributes)
 from Shell's on-premises Corporate Data Store into the cloud-based Open
-Subsurface Data Universe (OSDU) platform, across global assets.
+Subsurface Data Universe (OSDU) platform, across global assets, and owned five workstreams across the programme:
 
 - **ETL Pipeline Development (Informatica / OSDU)** -- built Informatica
   Cloud Data Integration (CDI) pipelines to migrate subsurface data from
