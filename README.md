@@ -10,6 +10,20 @@ a migration of core well data (well names, identifiers, and key attributes)
 from Shell's on-premises Corporate Data Store into the cloud-based Open
 Subsurface Data Universe (OSDU) platform, across global assets.
 
+- **ETL Pipeline Development (Informatica / OSDU)** -- built Informatica
+  Cloud Data Integration (CDI) pipelines to migrate subsurface data from
+  CDS and SDU into OSDU; constructed OSDU-compliant JSON manifests using
+  Hierarchy Builder with full attribute coverage; applied reference data
+  translation to standardise source values across regional variants;
+  extended pipelines with Python scripts including DLIS-to-Parquet
+  conversion via dlisio; handled flat file migration (DLIS, LAS, WITSML)
+  through the OSDU Content Delivery Service; orchestrated and
+  troubleshot pipeline runs via Apache Airflow; validated ingested
+  records using OSDU Search and Storage APIs; versioned Informatica
+  pipeline assets in GitHub; deployed to production via ServiceNow
+  change management; built parameterised multi-region pipelines to
+  eliminate per-asset cloning
+
 - **Entitlements & Obligations (E&O)** -- data governance and access
   control; played a core role in designing, testing, and implementing
   the cloud-native DMA (Data Management Application) -- Shell's
