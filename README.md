@@ -5,7 +5,7 @@ I build data infrastructure in highly complex domains -- upstream O&G,
 energy markets, and regulatory datasets. Currently contracting in London on
 AWS-based pipelines (S3, Redshift, Kafka, PostgreSQL).
 
-Previously at Shell Global Solutions, where I led the CoatHanger programme --
+Previously at Shell Global Solutions, where I led the OSDU Cloud Migration programme --
 a migration of core well data (well names, identifiers, and key attributes)
 from Shell's on-premises Corporate Data Store into the cloud-based Open
 Subsurface Data Universe (OSDU) platform, across global assets, and owned 
