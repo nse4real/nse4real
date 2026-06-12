@@ -24,7 +24,7 @@ and owned six workstreams across the programme:
   change management; built parameterised multi-region pipelines to
   eliminate per-asset cloning
 
-- **Coathanger** Migration of foundational / core well data (well names,
+- **Coathanger** -- Migration of foundational / core well data (well names,
   identifiers, and key attributes) for the Americas, Europe and Africa
   Assets from Shell's on-premises Corporate Data Store into the
   cloud-based Open Subsurface Data Universe (OSDU) platform
