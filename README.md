@@ -6,10 +6,9 @@ energy markets, and regulatory datasets. Currently contracting in London on
 AWS-based pipelines (S3, Redshift, Kafka, PostgreSQL).
 
 Previously at Shell Global Solutions, where I led the OSDU Cloud Migration programme --
-a migration of core well data (well names, identifiers, and key attributes)
-from Shell's on-premises Corporate Data Store into the cloud-based Open
-Subsurface Data Universe (OSDU) platform, across global assets, and owned 
-five workstreams across the programme:
+a migration of upstream technical data from Shell's on-premises Corporate Data Store 
+into the cloud-based Open Subsurface Data Universe (OSDU) platform, across global assets, 
+and owned six workstreams across the programme:
 
 - **ETL Pipeline Development (Informatica / OSDU)** -- built Informatica
   Cloud Data Integration (CDI) pipelines to migrate subsurface data from
@@ -24,6 +23,11 @@ five workstreams across the programme:
   pipeline assets in GitHub; deployed to production via ServiceNow
   change management; built parameterised multi-region pipelines to
   eliminate per-asset cloning
+
+- **Coathanger** Migration of foundational / core well data (well names,
+  identifiers, and key attributes) for the Americas, Europe and Africa
+  Assets from Shell's on-premises Corporate Data Store into the
+  cloud-based Open Subsurface Data Universe (OSDU) platform
 
 - **Entitlements & Obligations (E&O)** -- data governance and access
   control; played a core role in designing, testing, and implementing
