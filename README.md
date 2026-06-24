@@ -1,4 +1,4 @@
-# Simon Udoh (Nsenam)
+# Senam Udoh (Simon)
 ### Data Engineer | Cloud & Streaming Pipelines | Subsurface & Energy Data
 
 I build data infrastructure in highly complex domains -- upstream O&G,
