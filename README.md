@@ -1,14 +1,21 @@
-# Senam Udoh (Simon)
-### Data Engineer | Cloud & Streaming Pipelines | Subsurface & Energy Data
+# Senam Udoh
+### AI Data Engineer | Data Engineer | AI-Native Data Platforms | Cloud & Streaming
 
-I build data infrastructure in highly complex domains -- upstream O&G,
-energy markets, and regulatory datasets. Currently contracting in London on
-AWS-based pipelines (S3, Redshift, Kafka, PostgreSQL).
+I build data infrastructure for both traditional analytics and AI-native systems,
+with experience across energy, subsurface data and operational platforms.
 
-Previously at Shell Global Solutions, where I led the OSDU Cloud Migration programme --
-a migration of upstream technical data from Shell's on-premises Corporate Data Store 
-into the cloud-based Open Subsurface Data Universe (OSDU) platform, across global assets, 
-and owned six workstreams across the programme:
+Currently working in London as an Analytics Engineer / Data Engineer, building
+cloud data pipelines with Azure Data Factory, Databricks, PySpark and SQL, while
+developing AWS, streaming and AI-native data engineering projects in public.
+
+My current focus is the intersection of data engineering and AI systems: RAG
+pipelines, embeddings, vector retrieval, retrieval evaluation, AI-ready data
+pipelines and agentic workflows.
+
+Previously at Shell Global Solutions, where I worked on the OSDU Cloud Migration programme,
+supporting the migration of upstream technical data from Shell's on-premises Corporate Data Store
+into the cloud-based Open Subsurface Data Universe (OSDU) platform across global assets, and
+taking ownership of six technical and data-management workstreams:
 
 - **ETL Pipeline Development (Informatica / OSDU)** -- built Informatica
   Cloud Data Integration (CDI) pipelines to migrate subsurface data from
@@ -74,10 +81,10 @@ well log, a seismic section, and a Kafka offset in the same morning.
 ## What I build
 
 - **Streaming pipelines** -- Kafka, Spark Structured Streaming, Debezium CDC
-- **Cloud data infrastructure** -- AWS (S3, Redshift, Glue, Lambda), Azure (ADF, Databricks, Fabric)
-- **Subsurface & geospatial data** -- OSDU, DLIS, SEG-Y, WITSML, RESQML
+- **Cloud data infrastructure** -- Azure (ADF, Databricks, Fabric), AWS (S3, Redshift, Glue, Lambda)
+- **Enterprise & subsurface data** -- OSDU, DLIS, LAS, WITSML, RESQML, SEG-Y
 - **Analytics & warehousing** -- dbt, PostgreSQL, Redshift, data modelling
-- **Orchestration & containerisation** -- Airflow, Docker, Docker Compose
+- **Orchestration & platform engineering** -- Airflow, Docker, Docker Compose, Git, CI/CD
 
 ---
 
@@ -103,9 +110,9 @@ entitlement schema matters at the asset level. That gap is where I work.
 
 ## Currently
 
-- Contracting as Data Engineer (AWS stack, London)
+- Analytics Engineer / Data Engineer at KakraSpace, London
 - Building toward Microsoft Fabric Data Engineer certification (DP-700)
-- Open to senior Data Engineer and Data Analyst roles (visa sponsorship required)
+- Open to AI Data Engineer, Data Engineer, GenAI Data Engineer and AI Platform Engineer opportunities
 
 ---
 
@@ -133,6 +140,8 @@ entitlement schema matters at the asset level. That gap is where I work.
 
 ## Reach me
 
+Also known professionally as Simon Udoh.
+
 [LinkedIn](https://www.linkedin.com/in/simonnudoh) |
 [Portfolio](https://portfolio-coral-two-43.vercel.app) |
-simon.n.udoh@gmail.com
+senam.udoh@gmail.com
