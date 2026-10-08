@@ -140,7 +140,7 @@ entitlement schema matters at the asset level. That gap is where I work.
 
 ## Reach me
 
-Also known professionally as Simon Udoh.
+Also known professionally as Simon Udoh. Please note that my Digital twin may take a few minutes to fully render.
 
 [LinkedIn](https://www.linkedin.com/in/simonnudoh) |
 [Portfolio](https://portfolio-coral-two-43.vercel.app) |
